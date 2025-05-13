@@ -2,10 +2,6 @@
 
 This script fetches pull request (PR) comments from a specified GitHub organization and repository for the past year. It supports the option to filter and export review comments and issue comments into JSON and Excel formats. It also includes functionality to ignore specific authors' comments based on either a default list or user-provided list via the command-line argument.
 
-## 📺 Demo
-
-[![Watch the demo](https://img.youtube.com/vi/abc123XYZ/0.jpg)](https://www.youtube.com/watch?v=abc123XYZ)
-
 ## Requirements
 
 * Python 3.x (Recommended: Python 3.12+)
