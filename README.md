@@ -14,6 +14,19 @@ sudo apt install python3.12-venv
 ```
 
 ## Setup (one-time)
+You can use `setup.sh`
+1. **Make it executable:**
+
+   ```bash
+   sudo chmod +x setup.sh
+   ```
+2. **Run the script:**
+
+   ```bash
+   ./setup.sh
+   ```
+   
+## OR
 
 1. **Create a virtual environment:**
 
