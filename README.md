@@ -99,10 +99,10 @@ and then run the above ones
 ---
 
 ### Some Hardcoded values
-* `DAYS_BACK = 365
-* `IGNORE_AUTHORS = [USERNAME,'filebased-rnd-tools']  # Default authors to ignore
-* `DEFAULT_ORG = 'evertz-fbrnd'  # Default GitHub organization
-* `DEFAULT_REPO = 'evertz'  # Default GitHub repository
+* `DAYS_BACK = 365`
+* `IGNORE_AUTHORS = [USERNAME,'filebased-rnd-tools']`  # Default authors to ignore
+* `DEFAULT_ORG = 'evertz-fbrnd'`  # Default GitHub organization
+* `DEFAULT_REPO = 'evertz'`  # Default GitHub repository
 
 ## Examples
 
